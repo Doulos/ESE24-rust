@@ -105,7 +105,7 @@ This target triple notation indicates that:
 
 2. On the left side select the extensions' icon:
 
-![Screenshot from 2024-01-02 18-45-55](./images/Screenshot from 2024-01-02 18-45-55.png) or press: `Ctrl+Shift+X`
+![Screenshot from 2024-01-02 18-45-55](./images/18-45-55.png) or press: `Ctrl+Shift+X`
 
 3. Inside the extensions search box (top-left), search **rust-analyzer**
 
